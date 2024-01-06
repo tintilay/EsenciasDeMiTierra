@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165123254036",
+    "firebase_url": "https://bd-esenciasdemitierra-default-rtdb.firebaseio.com",
+    "project_id": "bd-esenciasdemitierra",
+    "storage_bucket": "bd-esenciasdemitierra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165123254036:android:467e1c7d6abfce7c9dc401",
+        "android_client_info": {
+          "package_name": "com.mycompany.esenciasdemitierra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165123254036-0n5n0heqpre1ntl3r39isb5n9jto9lr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.esenciasdemitierra",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "165123254036-r5stftqes858mbv9gsbjk4odkuta4lsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEuuGugboyxDFzL5dIXJkjK0U6PVQQ8i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165123254036-r4v5162ogrchqm2f0qvfegj6ot2lpg5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165123254036-hl9of25ineq7sctuv6jobekkee1t29rl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.esenciasdemitierra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

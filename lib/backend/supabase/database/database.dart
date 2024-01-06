@@ -1,0 +1,34 @@
+export '../../../flutter_flow/lat_lng.dart';
+export 'package:supabase_flutter/supabase_flutter.dart' hide Provider;
+
+export '../supabase.dart';
+export 'row.dart';
+export 'table.dart';
+
+export 'tables/vistaconteotecnicas.dart';
+export 'tables/recursos_educativos.dart';
+export 'tables/galerias.dart';
+export 'tables/profesiones.dart';
+export 'tables/vistaconteodisciplinas.dart';
+export 'tables/obras.dart';
+export 'tables/servicios_educativos.dart';
+export 'tables/vistaconteoobras.dart';
+export 'tables/miembros_grupo.dart';
+export 'tables/vistaconteoestilos.dart';
+export 'tables/estilos.dart';
+export 'tables/disciplinas.dart';
+export 'tables/noticias.dart';
+export 'tables/tipo_noticia.dart';
+export 'tables/vistaconteonoticiasactivas.dart';
+export 'tables/tipo_recurso_educativo.dart';
+export 'tables/vistaconteogalerias.dart';
+export 'tables/artista_profesiones.dart';
+export 'tables/tecnicas.dart';
+export 'tables/usuarios.dart';
+export 'tables/vistaconteonoticias.dart';
+export 'tables/perfil_artista.dart';
+export 'tables/materiales.dart';
+export 'tables/notificaciones.dart';
+export 'tables/vistaconteomateriales.dart';
+export 'tables/disciplina_perfil.dart';
+export 'tables/eventos.dart';
